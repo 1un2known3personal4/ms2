@@ -1,16 +1,16 @@
 ﻿
 
 
-token=
+token=NTE0ODkzNDM0MDU0NTA4NjA0.DtdLrg.oSSYwnDg3-M7bYWxG66aiLUgqTk
 
 
-owner=290908670529896448
+owner=316324088865882142
 
 
-prefix=!
+prefix=2
 
 
-game=!help
+game=2help | 2play
 
 status=DND
 
